@@ -65,21 +65,29 @@ function Header() {
                     <Avatar></Avatar>
                     <h4>Jagadesh_JY</h4>
                     
+                    <Tooltip title="Create">
                     <IconButton>
                         <AddIcon/>
                     </IconButton>
+                    </Tooltip>
 
+                    <Tooltip title="Messenger">
                     <IconButton>
                         <ForumIcon/>
                     </IconButton>
+                    </Tooltip>
 
+                    <Tooltip title="Notificatios">
                     <IconButton>
                         <NotificationsActiveIcon/>
                     </IconButton>
+                    </Tooltip>
 
+                    <Tooltip title="Account">
                     <IconButton>
                         <ExpandMoreIcon/>
                     </IconButton>
+                    </Tooltip>
 
                     
                 </div>
